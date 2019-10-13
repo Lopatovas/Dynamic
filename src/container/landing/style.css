@@ -1,0 +1,24 @@
+.container {
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-top: 10%;
+    height: 50%;
+}
+
+.page {
+    background-color: #d7e9f1;
+    height: 100%;
+}
+
+.wrapper {
+    margin: 2%;
+}
+
+.errorText{
+    color: #ff0000;
+}
+
+.successText {
+    color: #02ca23;
+    white-space: pre-wrap;
+}

@@ -1,0 +1,14 @@
+.customTextArea{
+    width: 95%;
+    height: 25%;
+    margin-bottom: 2%;
+    resize: none;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.customTextArea:focus {
+    outline: none;
+    border-color: #003f63;
+    box-shadow: 0 0 5px #003f63;
+}
