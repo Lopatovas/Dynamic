@@ -37,7 +37,6 @@ class Landing extends React.Component {
   filterPath() {
     const { parsedArray, optimalPath } = this.state;
     const calcArray = [...optimalPath];
-    console.log(calcArray);
     return parsedArray.map((item, i) => {
       if (i !== calcArray[0]) {
         return (
